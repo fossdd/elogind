@@ -1,7 +1,7 @@
 /* SPDX-License-Identifier: LGPL-2.1-or-later */
 #pragma once
 
-#include <linux/prctl.h>
+#include <sys/prctl.h>
 
 #include "macro.h"
 
