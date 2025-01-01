@@ -16,6 +16,7 @@
 #include "user-util.h"
 #include "utmp-wtmp.h"
 #include "wall.h"
+#include "musl_missing.h"
 
 #if ENABLE_UTMP || ENABLE_LOGIND
 
