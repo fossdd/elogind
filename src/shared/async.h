@@ -2,6 +2,7 @@
 #pragma once
 
 #include <sys/types.h>
+#include <signal.h>
 
 #include "macro.h"
 #include "rm-rf.h"
